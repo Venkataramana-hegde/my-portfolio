@@ -11,8 +11,9 @@ export const Navbar = ({menuOpen, setMenuOpen}) => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <a href="#home" className="font-mono text-xl font-bold text-white">
+          
             {" "}
-            Venkataramana<span className="text-blue-500">Hegde</span>
+            V<span className="text-blue-500">H</span>
           </a>
 
           {/* MOBILE MENU */}

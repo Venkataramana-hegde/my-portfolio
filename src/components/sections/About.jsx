@@ -88,12 +88,20 @@ export const About = () => {
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
-                    Backend Developer Intern at Healthletic Lifestyle (February
+                    Backend Developer Intern at Healthletic Lifestyle (January
+                    - Present){" "}
+                  </h4>
+                  {/* <p>
+                    Assisted in building front-end components and integration of
+                    REST APIs
+                  </p> */}
+                  <br />
+                  <h4 className="font-semibold">
+                    FullStack Developer Intern at Techez workstation and Softsolutions pvt ltd. (February
                     - Present){" "}
                   </h4>
                   <p>
-                    Assisted in building front-end components and integration of
-                    REST APIs
+                    
                   </p>
                 </div>
               </div>

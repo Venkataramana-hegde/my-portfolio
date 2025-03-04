@@ -33,7 +33,9 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href=""
+                  href="https://github.com/Venkataramana-hegde/blog-microservices"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   {" "}
@@ -43,12 +45,13 @@ export const Projects = () => {
             </div>
 
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2">Blog-Microservices</h3>
+              <h3 className="text-xl font-bold mb-2">Awwards website</h3>
               <p className="text-gray-400 mb-4">
-                Scalable infrastructure developed using Docker, Kubernetes.{" "}
+                A gaming awards website inspired by Zentry, built with React,
+                Tailwind CSS, and GSAP for smooth animations and a modern UI.{" "}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Node.js", "Docker", "Kubernetes"].map((tech, key) => (
+                {["React", "Tailwind CSS", "GSAP"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
@@ -62,7 +65,9 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href=""
+                  href="https://imaginative-gecko-ba08d4.netlify.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   {" "}
@@ -72,12 +77,15 @@ export const Projects = () => {
             </div>
 
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2">Blog-Microservices</h3>
+              <h3 className="text-xl font-bold mb-2">
+                OpenAI Article Summarizer
+              </h3>
               <p className="text-gray-400 mb-4">
-                Scalable infrastructure developed using Docker, Kubernetes.{" "}
+                An Article summarizer that leverages React and Tailwind CSS
+                along with Open AI API to provide article summaries.{" "}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Node.js", "Docker", "Kubernetes"].map((tech, key) => (
+                {["React", "Tailwind CSS", "Rapid API"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
@@ -91,7 +99,9 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href=""
+                  href="https://rad-cat-ccc452.netlify.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   {" "}
@@ -101,12 +111,13 @@ export const Projects = () => {
             </div>
 
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2">Blog-Microservices</h3>
+              <h3 className="text-xl font-bold mb-2">Car Pricing API</h3>
               <p className="text-gray-400 mb-4">
-                Scalable infrastructure developed using Docker, Kubernetes.{" "}
+                Currently working on car pricing service using NestJS and
+                Typescript.{" "}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Node.js", "Docker", "Kubernetes"].map((tech, key) => (
+                {["Node.js", "NestJS", "TypeScript"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
@@ -120,7 +131,9 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href=""
+                  href="https://github.com/Venkataramana-hegde/car-pricing"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   {" "}
